@@ -1,11 +1,11 @@
-👋 Hola, soy Andrey Rivera (@AndreyRi13)
+👋 Hi, I'm Andrey Rivera (@AndreyRi13)
 
-- 👀 Estoy interesado en aprender mucho sobre tecnologia, sobre innovacion y desarrollo de software
+- 👀 I'm interested in learning a lot about technology, about innovation and software development.
 
-- 🌱 Actualmente estoy aprendiendo desarrollo de software web con Spring Boot
+- 🌱 I'm currently learning web software development with Spring Boot.
 
-- 💞️ Estoy buscando colaborar en proyectos con Spring Boot
+- 💞️ I am looking to collaborate on projects with Spring Boot.
 
-- 📫 Cómo contactar conmigo: 
-          Correo: Andreyrivera2018@gmail.com
+- 📫 How to contact me: 
+          Mail: Andreyrivera2018@gmail.com
         
